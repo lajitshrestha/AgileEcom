@@ -1,0 +1,48 @@
+/* Ad start */
+/* .slider-container {
+    position: relative;
+}
+
+.slider {
+    display: flex;
+    overflow-x: hidden;
+}
+
+.slide {
+    flex: 0 0 auto; 
+    
+}
+
+.caption {
+    text-align: center;
+}
+
+.navigation-arrows {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+}
+
+.prev,
+.next {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.prev:hover,
+.next:hover {
+    background-color: #555;
+} */
+/* Ad end */
+
+.card-img-top{
+    width:100%;
+    height:200px;
+    object-fit: contain;
+}
