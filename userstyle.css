@@ -1,0 +1,52 @@
+/* Custom CSS */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: #007bff;
+}
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.navbar-nav .nav-link:hover {
+    color: #ffd700 !important;
+}
+.product {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    transition: box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+}
+.product:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.product img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+.product h5 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: #333;
+}
+.product p {
+    color: #666;
+}
+.highlighted-price {
+    color: #007bff; 
+    font-weight: bold;  
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
